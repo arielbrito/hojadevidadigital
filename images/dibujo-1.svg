@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="dibujo-1.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient849"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop847" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter831"
+       x="-0.0098844982"
+       width="1.019769"
+       y="-0.015267606"
+       height="1.0305352">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.12803944"
+         id="feGaussianBlur833" />
+    </filter>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2287"
+       gradientUnits="userSpaceOnUse"
+       x="40.026695"
+       y="119.79078">
+      <meshrow
+         id="meshrow2289">
+        <meshpatch
+           id="meshpatch2291">
+          <stop
+             path="c 8.3036,0  16.6072,0  24.9108,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2293" />
+          <stop
+             path="c 0,3.01882  0,6.03764  0,9.05647"
+             style="stop-color:#0000ff;stop-opacity:1"
+             id="stop2295" />
+          <stop
+             path="c -8.3036,0  -16.6072,0  -24.9108,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2297" />
+          <stop
+             path="c 0,-3.01882  0,-6.03764  0,-9.05647"
+             style="stop-color:#0000ff;stop-opacity:1"
+             id="stop2299" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="190.49093"
+     inkscape:cy="677.1593"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="45.451636,180.86161"
+       orientation="0,1"
+       id="guide2319"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="36.569196,173.77456"
+       orientation="1,0"
+       id="guide2321"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="68.98065,163.28573"
+       orientation="1,0"
+       id="guide2323"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="55.751487,163.38021"
+       orientation="0,1"
+       id="guide2325"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#1d20ff;fill-opacity:1;stroke-width:0.26458332;stroke:none"
+       id="rect845"
+       width="32.316963"
+       height="17.575893"
+       x="36.663689"
+       y="116.13839" />
+    <ellipse
+       style="opacity:1;fill:#0dd289;fill-opacity:1;stroke-width:0.17111;filter:url(#filter831);stroke:#5e2367;stroke-opacity:1"
+       id="path819"
+       ry="8.2682285"
+       rx="15.544271"
+       cy="124.94334"
+       cx="52.463081" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:url(#meshgradient2287);stroke-width:0.26458332"
+       x="39.876488"
+       y="128.6116"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="39.876488"
+         y="128.6116"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:'Adobe Devanagari';-inkscape-font-specification:'Adobe Devanagari';fill:#0000ff;stroke-width:0.26458332;stroke:url(#meshgradient2287)">ABR</tspan></text>
+  </g>
+</svg>
